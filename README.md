@@ -25,3 +25,5 @@
 2、选择docker里面的解释器路径；
 
 3、选择docker里面的本地文件的映射路径
+
+5.VPN西部世界官网：https://xbsj6147.xyz/portal/order/node
